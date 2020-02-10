@@ -66,8 +66,6 @@ navBar.append(navNew1);
 navBar.append(navNew2);
 
 
-
-
 // CTA
 let ctaHeader = document.querySelector('h1');
 ctaHeader.textContent = siteContent['cta']['h1']
